@@ -1,0 +1,10 @@
+province,employers,permanent_headcount,white_pct_workforce,top_mgmt_headcount,white_pct_top_mgmt,female_pct_top_mgmt,top_mgmt_to_workforce_ratio
+LIMPOPO,19,2562,9.7,34,85.3,32.4,8.8
+NORTH WEST,14,1997,32.5,24,75.0,12.5,2.3
+WESTERN CAPE,93,31474,11.8,242,64.9,22.3,5.5
+GAUTENG,219,107049,12.5,758,61.3,24.4,4.9
+FREE STATE,14,1649,9.8,17,58.8,17.6,6.0
+EASTERN CAPE,29,7476,14.4,61,54.1,27.9,3.8
+NORTHERN CAPE,8,1516,14.3,16,50.0,6.2,3.5
+MPUMALANGA,23,9725,7.2,39,41.0,17.9,5.7
+KWAZULU NATAL,80,42004,4.1,317,26.8,28.7,6.5

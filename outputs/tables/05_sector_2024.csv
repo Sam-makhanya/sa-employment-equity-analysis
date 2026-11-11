@@ -1,0 +1,10 @@
+sector_group,employers,permanent_headcount,white_pct_workforce,top_mgmt_headcount,white_pct_top_mgmt,female_pct_top_mgmt,top_mgmt_to_workforce_ratio
+Agriculture,83,16212,9.3,101,84.2,12.9,9.1
+Wholesale & retail,57,36746,8.4,158,70.9,21.5,8.4
+Hospitality & arts,32,7408,9.1,78,64.1,24.4,7.0
+Transport & storage,34,13948,9.9,94,61.7,19.1,6.2
+Manufacturing,98,36180,12.5,290,57.9,20.7,4.6
+Construction,46,11585,12.6,205,56.6,13.2,4.5
+Finance & business services,79,31523,17.1,297,53.5,35.4,3.1
+Mining & utilities,32,16036,10.7,55,45.5,29.1,4.3
+"Public admin, health & education",38,35814,6.0,230,20.9,34.8,3.5
